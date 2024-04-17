@@ -1,7 +1,11 @@
 <template>
   <div class="container mx-auto p-4">
     <div class="flex flex-col items-center">
-      <img src="./Annur.jpg" class="profile-image mb-4" alt="Profile Picture" />
+      <img
+        src="./Annur.jpeg"
+        class="profile-image mb-4"
+        alt="Profile Picture"
+      />
       <h1 class="text-2xl font-bold text-blue-600">
         An'nur Syaqila Syuha'daa binti Roslin
       </h1>
