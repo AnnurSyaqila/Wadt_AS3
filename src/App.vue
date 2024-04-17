@@ -1,26 +1,14 @@
-<script setup lang="ts">
-import HelloWorld from "./components/HelloWorld.vue";
-</script>
-
-<style>
-@import "tailwindcss/base";
-@import "tailwindcss/components";
-@import "tailwindcss/utilities";
-</style>
-
 <template>
   <div class="container mx-auto p-4">
     <div class="flex flex-col items-center">
       <img src="./Annur.jpg" class="profile-image mb-4" alt="Profile Picture" />
-      <h1 class="text-2xl font-bold">An'nur Syaqila Syuha'daa binti Roslin</h1>
-      <p class="text-gray-600">
-        <!--Short description of myself -->
-        Web Developer | Cat Mom | Hiker
-      </p>
-
-      <p class="text-gray-600 mb-4">22FTT1503| Web Developer | DWDT08</p>
+      <h1 class="text-2xl font-bold text-blue-600">
+        An'nur Syaqila Syuha'daa binti Roslin
+      </h1>
+      <!-- short description -->
+      <p class="text-gray-800 mb-4">22FTT1503| Web Developer | DWDT08</p>
       <!-- Add your hobbies, interests, etc. here -->
-      <p class="text-gray-600 mb-4">
+      <p class="text-gray-700 mb-4">
         Im still in the age of wanting to explore and learn new things. I gained
         an interest in nature hiking and looking forward to explore more places
         outside of my comfort zone. before this, I was a taekwondo athlete but I
@@ -44,5 +32,19 @@ import HelloWorld from "./components/HelloWorld.vue";
   height: 200px; /* Set desired height */
   object-fit: cover; /* Prevent image from stretching and maintain aspect ratio */
   border-radius: 50%; /* Make the image round */
+}
+
+/* Random design styles */
+.container {
+  background-color: #f7fafc;
+  padding: 2rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+h1 {
+  font-family: "Arial", sans-serif;
+}
+p {
+  line-height: 1.5;
 }
 </style>
