@@ -2,10 +2,9 @@ import { defineConfig } from "vite";
 import vue from "@vitejs/plugin-vue";
 import purgeCSS from "@fullhuman/postcss-purgecss";
 
-
 export default defineConfig({
+  base: "/vite-project",
   plugins: [vue()],
-})
   css: {
     postcss: {
       plugins: [
