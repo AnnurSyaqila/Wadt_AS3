@@ -1,17 +1,15 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
+import HelloWorld from "./components/HelloWorld.vue";
 </script>
 
 <template>
-  <div>
-    <a href="https://vitejs.dev" target="_blank">
-      <img src="/vite.svg" class="logo" alt="Vite logo" />
-    </a>
-    <a href="https://vuejs.org/" target="_blank">
-      <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
-    </a>
+  <div class="container mx-auto p-4">
+    <div class="flex flex-col items-center">
+      <img src="" class="w-32 h-32 rounded-full mb-4" alt="Profile Picture" />
+      <h1 class="text-2xl font-bold">An'nur Syaqila Syuha'daa binti Roslin</h1>
+      <p class="text-gray-600">Web Developer | Cat Mom | Hiker</p>
+    </div>
   </div>
-  <HelloWorld msg="Vite + Vue" />
 </template>
 
 <style scoped>
@@ -28,6 +26,3 @@ import HelloWorld from './components/HelloWorld.vue'
   filter: drop-shadow(0 0 2em #42b883aa);
 }
 </style>
-
-
-<img src>
