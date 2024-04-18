@@ -27,7 +27,7 @@
       </p>
 
       <h2 class="text-1xl font-bold text-green-600>My Troops</h2>
-      <br />
+      <br>
       <img
         src="./assets/Cat.png"
         class="profile-image mb-4"
