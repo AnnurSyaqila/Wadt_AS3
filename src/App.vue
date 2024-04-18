@@ -25,6 +25,13 @@
         profession one day. perhaps Im looking forward to become a project
         manager someday.
       </p>
+
+      <h2>My Gallery</h2>
+      <img
+        src="./assets/Cat.png"
+        class="profile-image mb-4"
+        alt="Profile Picture"
+      />
     </div>
   </div>
 </template>
