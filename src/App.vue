@@ -24,7 +24,7 @@
       decided to retire and become a referee instead. I'm really comfortable
       with being alone yet I would still enjoy company of others.
     </p>
-    <p>
+    <p class="text-gray-700 mb-4">
       Other than that, I really love cats and Batman is my bestfriend. He's so
       playful and can be very annoying sometimes especially when he try to wake
       me up in the morning. I'm also a web developer and I'm still learning to
