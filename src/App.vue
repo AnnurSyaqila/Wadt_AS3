@@ -31,7 +31,7 @@
       <img
         src="./assets/Cat.png"
         class="profile-image mb-4"
-        alt="Profile Picture"
+        alt="Troops"
       />
     </div>
   </div>
