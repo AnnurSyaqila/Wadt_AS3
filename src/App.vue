@@ -26,7 +26,7 @@
         manager someday.
       </p>
 
-      <h2>My Troops</h2>
+      <h2 class="text-1xl font-bold text-green-600>My Troops</h2>
       <br />
       <img
         src="./assets/Cat.png"
@@ -58,5 +58,9 @@ h1 {
 }
 p {
   line-height: 1.5;
+}
+
+h2 {
+  font-family: "Arial", sans-serif;
 }
 </style>
