@@ -33,7 +33,6 @@
         class="profile-image mb-4"
         alt="Profile Picture"
       />
-      <h2>My Favourite</h2>
     </div>
   </div>
 </template>
