@@ -26,12 +26,14 @@
         manager someday.
       </p>
 
-      <h2>My Gallery</h2>
+      <h2>My Troops</h2>
+      <br />
       <img
         src="./assets/Cat.png"
         class="profile-image mb-4"
         alt="Profile Picture"
       />
+      <h2>My Favourite</h2>
     </div>
   </div>
 </template>
