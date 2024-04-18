@@ -12,20 +12,31 @@
       <!-- short description -->
       <p class="text-gray-800 mb-4">22FTT1503| Web Developer | DWDT08</p>
       <!-- Add your hobbies, interests, etc. here -->
-      <p class="text-gray-700 mb-4">
-        Im still in the age of wanting to explore and learn new things. I gained
-        an interest in nature hiking and looking forward to explore more places
-        outside of my comfort zone. before this, I was a taekwondo athlete but I
-        decided to retire and become a referee instead. I'm really comfortable
-        with being alone yet I would still enjoy company of others. Other than
-        that, I really love cats and Batman is my bestfriend. He's so playful
-        and can be very annoying sometimes especially when he try to wake me up
-        in the morning. I'm also a web developer and I'm still learning to
-        improve my skills. I enjoy learning but I personally won't take it as my
-        profession one day. perhaps Im looking forward to become a project
-        manager someday.
-      </p>
     </div>
+  </div>
+  <br />
+  <div class="container mx-auto p-4">
+    <h2 class="text-xl font-bold text-red-500">About Myself</h2>
+    <p class="text-gray-700 mb-4">
+      Im still in the age of wanting to explore and learn new things. I gained
+      an interest in nature hiking and looking forward to explore more places
+      outside of my comfort zone. before this, I was a taekwondo athlete but I
+      decided to retire and become a referee instead. I'm really comfortable
+      with being alone yet I would still enjoy company of others.
+    </p>
+    <p>
+      Other than that, I really love cats and Batman is my bestfriend. He's so
+      playful and can be very annoying sometimes especially when he try to wake
+      me up in the morning. I'm also a web developer and I'm still learning to
+      improve my skills. I enjoy learning but I personally won't take it as my
+      profession one day. perhaps Im looking forward to become a project manager
+      someday.
+    </p>
+  </div>
+  <br />
+  <div class="container mx-auto p-4">
+    <h2 class="text-xl font-bold text-green-500">My cat</h2>
+    <p>He doesn't like to take picture</p>
   </div>
 </template>
 
@@ -46,6 +57,10 @@
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 h1 {
+  font-family: "Arial", sans-serif;
+}
+
+h2 {
   font-family: "Arial", sans-serif;
 }
 p {
