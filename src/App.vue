@@ -2,7 +2,7 @@
   <div class="container mx-auto p-4">
     <div class="flex flex-col items-center">
       <img
-        src="./Annur-compressed.jpeg"
+        src="./assets/Annur-compressed.jpeg"
         class="profile-image mb-4"
         alt="Profile Picture"
       />
