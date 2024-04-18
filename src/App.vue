@@ -34,11 +34,6 @@
         alt="Profile Picture"
       />
       <h2>My Favourite</h2>
-      <img
-        src="./assets/ginger.png"
-        class="profile-image mb-4"
-        alt="Profile Picture"
-      />
     </div>
   </div>
 </template>
