@@ -51,8 +51,4 @@ h1 {
 p {
   line-height: 1.5;
 }
-
-h2 {
-  font-family: "Arial", sans-serif;
-}
 </style>
