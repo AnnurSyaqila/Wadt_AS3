@@ -36,7 +36,7 @@
   <br />
   <div class="container mx-auto p-4">
     <h2 class="text-xl font-bold text-green-500">My cat</h2>
-    <p>He doesn't like to take picture</p>
+    <p class="text-gray-700 mb-4">He doesn't like to take picture</p>
   </div>
 </template>
 
